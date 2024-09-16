@@ -7,7 +7,7 @@ This project made for CS50-Introduction to Computer Science.
 - You can get fundamental knowledge about bodybuilding.
 - Main goal of the projet is learning basics of HTML/CSS.
 
-##Details of the Project
+### Details of the Project
 - First page is homepage.
 - Second page is about history of the bodybuilding.
 - Third page is Mr. Olympia Winners so far.
