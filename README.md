@@ -1,4 +1,4 @@
-# MyPage - The Depths of the Bodybuilding
+# MyPage - The Depths of Bodybuilding
 This project made for CS50-Introduction to Computer Science.
 
 ## General Information
